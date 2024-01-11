@@ -1,4 +1,4 @@
-# s3conf: Docker-Friendly s3cmd Configuration
+# s3conf
 
 s3conf is a tool designed to quickly configure s3cmd for Amazon S3-compatible storage while performing tasks in GitLab Runner. This project simplifies and streamlines the configuration and execution of s3cmd, providing a straightforward solution.
 
